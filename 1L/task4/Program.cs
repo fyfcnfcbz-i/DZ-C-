@@ -11,7 +11,7 @@ if(N < 10)
 }
 else
 {
-    while(N > 0) //256
+    while(N > 0) 
     {
         int R = N % 10;
         N /= 10;
